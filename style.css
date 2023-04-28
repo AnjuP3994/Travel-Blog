@@ -1,0 +1,170 @@
+
+/* navbar */
+.navbar{
+    background-color: black;
+    height: 4.5cm;
+    /* position: sticky;
+    top: 0; */
+}
+.border{
+    transition: .5s ease;
+} 
+.border:hover{
+    box-shadow: 0 0 0 7px #000000c0;
+    transition: .5s ease;
+}
+
+.a{
+    color: white;
+    margin-left: 20cm;
+    
+}
+.navlink1{
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 0.7cm;
+    margin-top: 1.5cm;
+    margin-left: 10cm;
+}
+.navlink{
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    font-size: 0.7cm;
+    margin-top: 1.5cm;
+    text-decoration: none;
+}
+.navlink:hover{
+    color: rgb(90, 136, 221);
+}
+/* bg img */
+.bgimg{
+    width: 100%; height: 18.7cm;
+    background-image: url('https://i.postimg.cc/zBsLQ1Qp/matt-africa5-1-scaled.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.bgh{
+    float: right;
+    margin-top: 4cm;
+    margin-right: 6cm;
+    font-size: 1.5cm;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 600;
+}
+.bgh1{
+    float: right;
+    margin-top: 6.2cm;
+    margin-right: -14.5cm;
+    font-family: 'Fjalla One', sans-serif;
+}
+.bginput{
+    float: right;
+    margin-top: 8cm;
+    margin-right: -15.2cm;
+    height: 1.5cm;
+    text-align: center;
+    font-size: 0.7cm;
+}
+.bgh2{
+    float: right;
+    margin-top: 9.5cm;
+    margin-right: -22cm;
+    height: 1.5cm;
+}
+/* find */
+.bgcolor{
+    background-color:rgb(86, 86, 202);
+    padding: 0.5cm;
+    color: white;
+}
+.bgc{
+    margin-top: 20px;
+    font-family: 'Bebas Neue', cursive;
+}
+.bgip{
+    margin-top: 0.8cm;
+    height: 1.7cm;
+    font-size: 0.7cm;
+}
+.btn{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 0.8cm;
+    height: 1.7cm; width: 5cm;
+    font-size: 0.7cm;
+}
+/* Latest from the Blog */
+#ff{
+    font-family: 'Fjalla One', sans-serif;
+}
+.h1{
+    font-size: 1.5cm;
+}
+.h2a{
+    color: black;
+    text-decoration: none;
+}
+.h2a:hover{
+    color: rgb(84, 84, 235);
+}
+.h2{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 0.7cm;
+}
+/* about */
+.h3{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.2cm;
+}
+.p1{
+    font-size: 0.7cm;
+    width: 750px;
+}
+.hh3{
+    font-family: 'Fjalla One', sans-serif;
+    margin-left: 1.5cm;
+}
+/* Books & Guides */
+.h4{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.5cm;
+    text-align: center;
+}
+.img1{
+    width: 1100px; height: 60px;
+    margin-left: 2cm;
+}
+/* footer */
+.bgclr{
+    background-color: cornflowerblue;
+    color: white;
+}
+.links{
+    text-decoration: none; color:ghostwhite;
+    font-size: 0.6cm;
+    line-height: 0.5;
+}
+.links:hover{
+    text-decoration: underline;
+    text-underline-position: under;
+}
+#heading{
+    text-align: right;
+}
+.icon{
+    color: white;
+    margin-left: 16.5cm;
+}
+/* .icon:hover{
+    text-shadow: -2px 0 wheat, 0 1px wheat, 1px 0 wheat, 0 -1px wheat;
+}
+.text-light:hover{
+    text-shadow: -2px 0 wheat, 0 1px wheat, 1px 0 wheat, 0 -1px wheat;
+} */
+.copy{
+    text-align: center;
+    font-size: 0.6cm;
+}
